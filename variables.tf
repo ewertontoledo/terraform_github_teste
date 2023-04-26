@@ -9,5 +9,5 @@ variable "name" {
 
 variable "acl" {
   type    = string
-  default = "privat"
+  default = "private"
 }
